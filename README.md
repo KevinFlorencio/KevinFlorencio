@@ -1,9 +1,9 @@
 # Hello, I'm Kevin Florencio
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am an IT student with a keen interest in cybersecurity. Currently, I am studying at EPI MBO to further my knowledge and skills in this field.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Feel free to connect with me on LinkedIn!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
