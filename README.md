@@ -1,5 +1,5 @@
 # Hello, I'm Kevin Florencio
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevin-florencio-b8a571298/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT student with a keen interest in cybersecurity. Currently, I am studying at EPI MBO to further my knowledge and skills in this field.
 
