@@ -6,9 +6,8 @@ I am an IT student with a keen interest in cybersecurity. Currently, I am studyi
 Feel free to connect with me on LinkedIn!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has fueled my passion for the field, and I am now eager to pursue a career focused on penetration testing. However, I recognize the importance of gaining broad experience in various IT roles. Thus, I aim to work in roles such as sysadmin, SOC analyst, and general IT positions to develop a well-rounded skill set. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
