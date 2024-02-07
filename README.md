@@ -10,8 +10,6 @@ Feel free to connect with me on LinkedIn!
 My journey in cybersecurity has fueled my passion for the field, and I am now eager to pursue a career focused on penetration testing. However, I recognize the importance of gaining broad experience in various IT roles. Thus, I aim to work in roles such as sysadmin, SOC analyst, and general IT positions to develop a well-rounded skill set. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
