@@ -12,7 +12,8 @@ My journey in cybersecurity has fueled my passion for the field, and I am now ea
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Pentest HomeLab: Attack-Defend             | <a href="https://google.com">Active Directory</a>|
+| Setting up a Active Directorye nvironment
+            | <a href="https://github.com/KevinFlorencio/Setting-up-Active-Directory"></a>|
 | ... | <a href="https://google.com">Wazuh SIEM</a>|
 |...      | SOC Automation Lab|
 | ...      | SOC Automation Lab|
