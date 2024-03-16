@@ -8,7 +8,7 @@ Feel free to connect with me on LinkedIn!
 ## Objective
 
 My journey in cybersecurity has fueled my passion for the field, and I am now eager to pursue a career focused on penetration testing. However, I recognize the importance of gaining broad experience in various IT roles. Thus, I aim to work in roles such as sysadmin, SOC analyst, and general IT positions to develop a well-rounded skill set. 
-
+______________________________________________________________________________________________
 ## Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
