@@ -13,7 +13,7 @@ My journey in cybersecurity has fueled my passion for the field, and I am now ea
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up a Active Directory environment| <a href="https://github.com/KevinFlorencio/Setting-up-Active-Directory">AD</a>|
-| ... | <a href="https://google.com">Wazuh SIEM</a>|
+| Setting up Splunk in my AD | <a href="https://google.com">Splunk Setup/a>|
 |...      | SOC Automation Lab|
 | ...      | SOC Automation Lab|
 | ...                  | SOC Automation Lab|
