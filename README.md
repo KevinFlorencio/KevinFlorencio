@@ -9,7 +9,7 @@ Feel free to connect with me on LinkedIn!
 
 My journey in cybersecurity has fueled my passion for the field, and I am now eager to pursue a career focused on penetration testing. However, I recognize the importance of gaining broad experience in various IT roles. Thus, I aim to work in roles such as sysadmin, SOC analyst, and general IT positions to develop a well-rounded skill set. 
 
-## Skills
+## Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up a Active Directory environment| <a href="https://github.com/KevinFlorencio/Setting-up-Active-Directory">AD</a>|
@@ -39,6 +39,3 @@ My journey in cybersecurity has fueled my passion for the field, and I am now ea
 
 </div>
 
-## Projects
-- <a href=https://github.com/KevinFlorencio/Setting-up-Active-Directory>Active Directory Setup</a>
-- Wazuh
