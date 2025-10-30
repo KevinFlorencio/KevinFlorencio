@@ -1,7 +1,9 @@
 # Hello, I'm Kevin Florencio
 <a href="https://www.linkedin.com/in/kevin-florencio-b8a571298/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT student with a keen interest in cybersecurity. Currently, I am studying at EPI MBO to further my knowledge and skills in this field.
+Graduated in IT from Colegio EPI 
+Now starting HBO ICT at Fontys Eindhoven
+Passionate about technology and its endless possibilities  Excited to explore network administration, cybersecurity, software development, and more 🚀 Dedicated to making a positive impact through innovation and collaboration  Let’s connect and explore the world of IT together!
 
 Feel free to connect with me on LinkedIn!
 
