@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | Setting up a Active Directory environment| <a href="https://github.com/KevinFlorencio/Setting-up-Active-Directory">AD</a>|
 | Setting up Splunk in my AD | <a href="https://google.com">Splunk Setup </a>|
 |AI-driven SOC automation  | <a href="https://1drv.ms/o/c/bcc4a3d2e192beb1/IgAcBGFw3ZAZTahQKcmnOHSnAVH9dWf5SWk1jWuTmtajtPM?e=8GE1Z2"> OneNote Documentation </a>
-| ...      | SOC Automation Lab|
+| OpenCTI Aruba Progress - Ongoing      | <a href="https://kevinflorencio.github.io/"> My Blog </a> |
 | ...                  | SOC Automation Lab|
 | ... | SOC Automation Lab|
 
