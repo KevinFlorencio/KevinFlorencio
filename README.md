@@ -9,9 +9,7 @@
 
 ## About
 
-IT graduate (Colegio EPI). I previously studied HBO ICT at Fontys University of
-Applied Sciences — I am no longer enrolled there — and I am currently preparing
-for my next study programme.
+IT graduate (Colegio EPI), currently preparing for my next study programme.
 
 I work across both sides of security. On the defensive side I build and
 instrument lab environments — SIEM pipelines, threat-intelligence platforms,
@@ -30,10 +28,10 @@ understanding how environments are actually run, monitored, and defended.
 
 ## Bug Bounty
 
-Started hunting at the end of July 2026 as a way to apply what I was learning.
-Results in the first month on Bugcrowd:
+I started hunting at the end of July 2026 as a way to apply what I was learning.
+My first month on Bugcrowd (August 2026):
 
-- First four-figure bounty — **$2,500** for a **P2** severity finding
+- First four-figure bounty — **$2,500** for a **P2**-severity finding
 - **100% accuracy** on my researcher profile
 - Ranked **#1 in Aruba** on the Bugcrowd leaderboard for August 2026
 
@@ -44,8 +42,8 @@ I report through coordinated disclosure, on in-scope targets only.
 | Project | Area | Link |
 |---|---|---|
 | SOC Automation 2.0 — AI-driven alert triage pipeline | SOAR / Automation | [Notes](https://1drv.ms/o/c/bcc4a3d2e192beb1/IgAcBGFw3ZAZTahQKcmnOHSnAVH9dWf5SWk1jWuTmtajtPM?e=8GE1Z2) |
-| Bug Radar — multi-platform bug bounty program tracker | Tooling | [Repo](https://github.com/KevinFlorencio/bug-bounty-radar) |
-| OpenCTI threat-intel pipeline — ongoing | CTI | [Write-up](https://kevinflorencio.github.io/) |
+| Bug Radar — multi-platform bug bounty program tracker | Tooling | [Repo](https://github.com/KevinFlorencio/bug-bounty-radar) · [Live](https://kevinflorencio.github.io/bug-bounty-radar/) |
+| OpenCTI threat-intel pipeline — ongoing | CTI | [Write-up](https://kevinflorencio.github.io/posts/ArubaOpenCTI/) |
 | T-Pot honeypot on Vultr with ELK analysis | Threat Hunting | Write-up on request |
 | Active Directory lab build | Infrastructure | [Repo](https://github.com/KevinFlorencio/Setting-up-Active-Directory) |
 | Splunk deployment in the AD lab | SIEM | Private — available on request |
@@ -60,11 +58,16 @@ Slack for a local model and Discord so triage runs fully offline.
 **Bug Radar** — aggregates the public HackerOne, Bugcrowd, and YesWeHack APIs
 into one self-hosted dashboard: 587+ programs with filters, freshness
 tracking, and a feed of newly added targets. Python collector, single-file
-frontend, no API keys required.
+frontend, no API keys required. Live at
+[kevinflorencio.github.io/bug-bounty-radar](https://kevinflorencio.github.io/bug-bounty-radar/).
 
 **T-Pot honeypot** — a multi-honeypot framework deployed on Vultr, feeding
 captured attack traffic into the Elastic Stack. Used it to practise KQL-based
 threat hunting against live opportunistic attack traffic.
+
+**Active Directory lab** — a Windows Server 2019 domain built in VirtualBox:
+AD DS, DNS with reverse-lookup zones, users, groups, and domain-joined clients,
+documented step by step with screenshots.
 
 ## Technical Skills
 
@@ -123,18 +126,23 @@ threat hunting against live opportunistic attack traffic.
 | eJPT — Junior Penetration Tester | INE | May 2025 |
 | Certified API Security Analyst | APIsec University | Oct 2024 |
 | API Security Fundamentals | APIsec University | Feb 2024 |
-| Ethical Hacker | Cisco | Jan 2024 |
-| Kusto Detective | Microsoft Azure Data Explorer | Nov 2023 |
+| Ethical Hacker | Cisco Networking Academy | Jan 2024 |
+| Kusto Detective Agency | Microsoft Azure Data Explorer | Nov 2023 |
 
 ## Courses & Training
 
 - **AI/ML Mobile Pentesting** — Mobile Hacking Lab *(in progress; won at the 2026 Mobile Hacking Lab Conference)*
+- **SOCRadar Academy** — SOCRadar *(Feb 2025)*
 - **Practical Windows Forensics** — TCM Security *(Dec 2024)* — NTFS artifacts, memory analysis, Volatility, KAPE, FTK Imager
 - **Introduction to Threat Hunting & Hunting with Elastic** — Hack The Box Academy *(Sep 2024)*
 - **Implement Load Balancing on Compute Engine** — Google Cloud Skills Boost *(Jun 2024)*
-- SOC Radar Academy *(Feb 2025)*
 
 ## Writing
 
 I document labs, research, and certification notes on my blog:
 **[kevinflorencio.github.io](https://kevinflorencio.github.io/)**
+
+Latest posts:
+
+- [Building an RTL-SDR Field Guide for Aruba](https://kevinflorencio.github.io/posts/ArubaRFFieldGuide/) — Nov 2026
+- [OpenCTI Aruba TI](https://kevinflorencio.github.io/posts/ArubaOpenCTI/) — Sep 2025
