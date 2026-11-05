@@ -46,9 +46,6 @@ I report through coordinated disclosure, on in-scope targets only.
 | OpenCTI threat-intel pipeline — ongoing | CTI | [Write-up](https://kevinflorencio.github.io/posts/ArubaOpenCTI/) |
 | T-Pot honeypot on Vultr with ELK analysis | Threat Hunting | Write-up on request |
 | Active Directory lab build | Infrastructure | [Repo](https://github.com/KevinFlorencio/Setting-up-Active-Directory) |
-| Splunk deployment in the AD lab | SIEM | Private — available on request |
-| ELK / Elastic stack setup | SIEM | Private — available on request |
-| Wazuh home lab | Detection | Private — available on request |
 
 **SOC Automation 2.0** — an alert ingestion, enrichment, and triage pipeline
 built on Splunk and Discord, with a **locally hosted Mistral 7B** doing the
