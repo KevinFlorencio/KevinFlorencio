@@ -9,8 +9,9 @@
 
 ## About
 
-IT graduate (Colegio EPI) with a background in HBO ICT at Fontys University of
-Applied Sciences, currently preparing for my next study programme.
+IT graduate (Colegio EPI). I previously studied HBO ICT at Fontys University of
+Applied Sciences — I am no longer enrolled there — and I am currently preparing
+for my next study programme.
 
 I work across both sides of security. On the defensive side I build and
 instrument lab environments — SIEM pipelines, threat-intelligence platforms,
