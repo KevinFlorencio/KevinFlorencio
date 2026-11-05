@@ -44,7 +44,6 @@ I report through coordinated disclosure, on in-scope targets only.
 | SOC Automation 2.0 — AI-driven alert triage pipeline | SOAR / Automation | [Notes](https://1drv.ms/o/c/bcc4a3d2e192beb1/IgAcBGFw3ZAZTahQKcmnOHSnAVH9dWf5SWk1jWuTmtajtPM?e=8GE1Z2) |
 | Bug Radar — multi-platform bug bounty program tracker | Tooling | [Repo](https://github.com/KevinFlorencio/bug-bounty-radar) · [Live](https://kevinflorencio.github.io/bug-bounty-radar/) |
 | OpenCTI threat-intel pipeline — ongoing | CTI | [Write-up](https://kevinflorencio.github.io/posts/ArubaOpenCTI/) |
-| T-Pot honeypot on Vultr with ELK analysis | Threat Hunting | Write-up on request |
 | Active Directory lab build | Infrastructure | [Repo](https://github.com/KevinFlorencio/Setting-up-Active-Directory) |
 
 **SOC Automation 2.0** — an alert ingestion, enrichment, and triage pipeline
@@ -57,10 +56,6 @@ into one self-hosted dashboard: 587+ programs with filters, freshness
 tracking, and a feed of newly added targets. Python collector, single-file
 frontend, no API keys required. Live at
 [kevinflorencio.github.io/bug-bounty-radar](https://kevinflorencio.github.io/bug-bounty-radar/).
-
-**T-Pot honeypot** — a multi-honeypot framework deployed on Vultr, feeding
-captured attack traffic into the Elastic Stack. Used it to practise KQL-based
-threat hunting against live opportunistic attack traffic.
 
 **Active Directory lab** — a Windows Server 2019 domain built in VirtualBox:
 AD DS, DNS with reverse-lookup zones, users, groups, and domain-joined clients,
